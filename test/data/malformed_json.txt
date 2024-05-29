@@ -1,0 +1,31 @@
+[1, 2, 3,]
+
+{
+    0: "0",
+    1: "1"
+}
+
+[
+    {
+        "citation": ""value"",
+        "authors": []
+    },
+    {
+        "citation": "value",
+        "authors: []
+    }
+]
+
+{
+    "number": 0001
+}
+
+{ "a": {}, "b": { "key": "value", "c": {}}
+
+[1, 2, [3, 4, [5, 6]]
+
+{
+    key1: value,
+    key2: value,
+    key3: value
+}

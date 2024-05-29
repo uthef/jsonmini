@@ -1,0 +1,39 @@
+{
+    "requestId": 5412985,
+    "pageNum": 8e+1,
+    "nextPage": {
+        "id": -1,
+        "from": 0,
+        "userFlags": {}
+    },
+    "tags": ["men under 50", "cool people to hang out with"],
+    "languages": ["اللهجة النجدية", "Հայերեն", "English", "Русский", "français", "日本語", "臺灣話"],
+    "profiles": [
+        {
+            "firstName": "Felix",
+            "age": 19,
+            "employed": false,
+            "transport": null,
+            "pets": ["dog", "cat", "parrot"],
+            "popularityIndex": 1.0343,
+            "aboutMe": "\t — A young college student… \n looking for high-educated people to discuss history"
+        },
+        {
+            "firstName": "Victor",
+            "age": 45,
+            "employed": true,
+            "transport": "Honda Civic",
+            "pets": [],
+            "popularityIndex": 0.78,
+            "aboutMe": "😎 My two favourite activities: resting at a bar with friends and driving my \"iron horse\" 😎"
+        }
+    ],
+    "suggestions": {
+        "params": null
+    },
+    "adPolicy": {
+        "personal": null,
+        "personalv2": null,
+        "premium": true
+    }
+}
